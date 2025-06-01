@@ -1,4 +1,4 @@
-mport streamlit as st
+import streamlit as st
 
 st.set_page_config(page_title="자취 유형 테스트", page_icon="🏠")
 st.title("🏠 나에게 맞는 자취 유형 테스트")
